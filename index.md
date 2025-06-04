@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building my career and being the best I can be"
 
 linkedin: https://www.linkedin.com/in/chidubem-chidebelu-a137a9271/
-image: /assets/images/me.jpeg
+image: assets/images/IMG_9195.heic
 ---
