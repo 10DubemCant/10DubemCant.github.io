@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Chidubem Chidebelu
   role: Senior, CS @ MSU
-  image: /assets/images/me.jpeg
-  linkedin: https://www.linkedin.com/in/clyde-tandjong-7a3ab0150/
+  image: assets/images/IMG_9195 (1).jpeg
+  linkedin: https://www.linkedin.com/in/chidubem-chidebelu-a137a9271/
   bio: |
-    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2025.
+    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
@@ -17,14 +17,11 @@ about:
 
   hobbies:
     - icon: 🎺
-      title: Playing Trumpet
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+      title: Working out
+      Description: Working out reduces stress for me, keeps me stimulated, and gives me a clear mind afterward.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: Gaming
+      description: I love playing games especially single player games. My favorite game is The Last of Us
 
   gallery:
     - image: /assets/images/me-guitar.png
